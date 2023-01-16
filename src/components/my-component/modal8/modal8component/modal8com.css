@@ -1,0 +1,55 @@
+.modalBackground8 {
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .modalContainer8 {
+    width: 350px;
+    height: 500px;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 9rem;
+  }
+  
+  .modalContainer8 .title {
+    display: inline-block;
+    margin-top: -5px;
+  }
+  
+  .title2 {
+    border-bottom: 1px solid #8E8E8E;
+    text-align: left;
+  }
+
+  .week2 {
+    text-align: left;
+  }
+  
+  .titleCloseBtn8 {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .titleCloseBtn8 button {
+    background-color: #8E8E8E;
+    border: none;
+    height: 18px;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .modalContainer8 .body {
+    flex: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.7rem;
+    text-align: center;
+  }
+  
+  
+  
