@@ -1,0 +1,162 @@
+.text-police {
+    font-weight: 0;
+    margin-top: 6rem;
+    margin-left: 10px;
+}
+
+.vcard-police {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.vcard-police2 {
+    margin-top: 6.8em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police3 {
+    margin-top: 13.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police4 {
+    margin-top: 20.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police5 {
+    margin-top: 27.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.header-police {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.header-police2 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police3 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police4 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police5 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.policebadge {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge2 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge3 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge4 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge5 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+
+.buttonReuse {
+    cursor: pointer;
+    margin-bottom: 1em;
+    margin-right: 1.5rem;
+}
+
+.searchbar {
+    width: 300%;
+}
+
+@media screen and (max-width: 1200px) {
+    .verification-contain-police {
+        padding-left: 1.1rem;
+        margin-right: -2.5rem;
+    }
+    .vcard-police {
+        margin-top: 5px;
+    }
+    .vcard-police2 {
+        margin-top: 140px;
+    }
+    .vcard-police3 {
+        margin-top: 280px;
+    }
+    .vcard-police4 {
+        margin-top: 420px;
+    }
+    .vcard-police5 {
+        margin-top: 560px;
+    }
+    .text-police {
+        text-align: left;
+    }
+    .policebadge {
+        margin-bottom: 50px;
+        position: absolute;
+        margin-right: 16px;
+    }
+    .header-police {
+        margin-right: 10px;
+    }
+}

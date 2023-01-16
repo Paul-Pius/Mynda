@@ -1,0 +1,135 @@
+.text-labtest2 {
+    font-weight: 0;
+    margin-top: 6rem;
+    text-align: left;
+}
+
+.text-labtest3 {
+    text-align: left;
+    font-weight: 0;
+    margin-top: 10rem;
+}
+
+.vcard-labtestlab {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    margin-bottom: -8rem;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.header-labtest {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.header-labtest2 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-labtest3 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-labtest4 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.lagoonbadge {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.redcross {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.people {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.lagoon {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+
+.dateandtime {
+    height: 150px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+}
+
+.screeningtest {
+    height: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.labtestfee {
+    height: 70px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border: 1px solid #204ECF;
+    width: 100%;
+    margin-top: 2rem;
+}
+
+.form-input-book {
+    background: #F3F5F7;
+    border: 1px solid rgba(213, 211, 211, 0.1);
+    border-radius: 5px;
+    color: rgba(142, 142, 142, 0.5);
+    box-sizing: border-box;
+    width: 90%;
+    height: 50px;
+    margin-top: 1rem;
+}
+
+.dateparagraph {
+    text-align: left;
+    margin-left: 1.5rem;
+}
+
+.labtp {
+    font-weight: 400;
+    font-size: 16px;
+    color: #8E8E8E;
+    margin-bottom: 0.5rem;
+}
+
+.testlist {
+    text-align: left;
+    margin-left: 1rem;
+    color: #204ECF;
+}
+
+@media screen and (max-width: 1200px) {
+    .vcard-labtestlab {
+        margin-top: 5px;
+    }
+
+    .labtest2 {
+        padding: 25px;
+    }
+  
+}

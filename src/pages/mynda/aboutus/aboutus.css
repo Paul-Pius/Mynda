@@ -1,0 +1,33 @@
+.aboutusdiv {
+    height: 200px;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    margin-top: -1rem;
+}
+
+.abtusheader {
+    text-align: left;
+}
+
+.who {
+    border-bottom: 5px solid #204ECF;
+    border-radius: 10px;
+}
+
+.our {
+    border-bottom: 5px solid #20CF91;
+    border-radius: 10px;
+}
+
+.our2 {
+    border-bottom: 5px solid #FFA836;
+    border-radius: 10px;
+}
+
+@media screen and (max-width: 1200px) {
+    .aboutusform {
+        padding: 30px;
+    }
+}

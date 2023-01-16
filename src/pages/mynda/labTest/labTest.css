@@ -1,0 +1,130 @@
+.text-labtest {
+    font-weight: 0;
+    margin-top: 6rem;
+    margin-left: 10px;
+}
+
+.vcard-labtest {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.vcard-labtest2 {
+    margin-top: 6.8em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-labtest3 {
+    margin-top: 13.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-labtest4 {
+    margin-top: 20.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.header-labtest {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.header-labtest2 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-labtest3 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-labtest4 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.lagoonbadge {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.redcross {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.people {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.lagoon {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+
+@media screen and (max-width: 1200px) {
+    .labtest-div {
+        padding-left: 1.1rem;
+        margin-right: -2.5rem;
+    }
+    .vcard-labtest {
+        margin-top: 5px;
+    }
+    .vcard-labtest2 {
+        margin-top: 140px;
+    }
+    .vcard-labtest3 {
+        margin-top: 280px;
+    }
+    .vcard-labtest4 {
+        margin-top: 420px;
+    }
+    .text-labtest {
+        text-align: left;
+    }
+    .lagoonbadge {
+        margin-bottom: 50px;
+        position: absolute;
+        margin-right: 16px;
+    }
+
+    .redcross {
+        margin-bottom: 50px;
+        position: absolute;
+        margin-right: 16px;
+    }
+}

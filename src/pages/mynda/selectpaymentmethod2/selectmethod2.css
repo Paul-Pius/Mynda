@@ -1,0 +1,63 @@
+.logodiv {
+    margin-top: 3rem;
+    margin-right: 18rem;
+}
+
+.how {
+    margin-top: 2rem;
+    text-align: left;
+    font-weight: 700;
+    font-size: 17px;
+    color: #1D1D1D;
+}
+
+.hr2 {
+    background: #FCAF30;
+    width: 150px;
+    height: 5px;
+    margin-top: -0.5rem;
+}
+
+.paymentmethodsdiv {
+    height: 200px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+.withcard {
+    height: 25px;
+    margin-top: 1.5rem;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.withcarda {
+    height: 20px;
+    margin-top: 1.5rem;
+}
+
+.withcard2 {
+    margin-top: -1rem;
+    margin-right: 8rem;
+}
+.withcard3 {
+    margin-top: -1rem;
+    margin-right: 6rem;
+}
+.withcard4 {
+    margin-top: -1rem;
+    margin-right: 8rem;
+}
+.withcard5 {
+    margin-top: -1rem;
+    margin-right: 5rem;
+}
+
+@media screen and (max-width: 1200px) {
+    .selectmethodform {
+        padding: 30px;
+    }
+}

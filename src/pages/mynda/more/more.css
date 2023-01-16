@@ -1,0 +1,45 @@
+.acctsetting {
+    margin-top: 2rem;
+}
+
+.morearrow {
+    margin-top: 1.5rem;
+    margin-left: 75rem;
+    display: flex;
+    position: absolute;
+}
+
+.image {
+    margin-top: 1.3rem;
+    margin-right: 35rem;
+}
+
+.actset {
+    margin-top: -1.3rem;
+    margin-right: 23rem;
+}
+
+/* .more {
+    padding: 30px;
+} */
+
+.sub {
+    margin-top: 1rem;
+}
+
+.apply {
+    margin-top: 1rem;
+}
+
+.traiservices {
+    margin-top: 1rem;
+}
+.about {
+    margin-top: 1rem;
+}
+.supportrate {
+    display: flex;
+    gap: 0.8rem;
+    margin-left: 1.8rem;
+    margin-top: 1rem;
+}

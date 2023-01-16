@@ -1,0 +1,269 @@
+.text-police {
+    font-weight: 0;
+    margin-top: 6rem;
+    margin-left: 10px;
+}
+
+.vcard-police {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.vcard-police2 {
+    margin-top: 6.8em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police3 {
+    margin-top: 13.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police4 {
+    margin-top: 20.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+.vcard-police5 {
+    margin-top: 27.7em;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    color: #6B6A6A;
+    text-align: left;
+}
+
+.header-police {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.header-police2 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police3 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police4 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+.header-police5 {
+    position: absolute;
+    margin-left: 3.5em;
+    margin-top: 0.7em;
+    color: #000000;
+}
+
+.policebadge {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge2 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge3 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge4 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+.policebadge5 {
+    position: absolute;
+    margin-top: 12px;
+    margin-left: -0.4em;
+}
+
+.buttonReuse {
+    cursor: pointer;
+    margin-bottom: 1em;
+    margin-right: 1.5rem;
+}
+
+.agntbtn1 {
+	position: absolute;
+	color: #204ECF;
+	margin-top: -4.5rem;
+	margin-left: 17rem;
+	background-color: #E6ECFF;
+	width: 3rem;
+	height: 10px;
+	padding-top: 0.5rem;
+	border-radius: 60px;
+}
+
+.agntxt1 {
+	margin-top: -0.5rem;
+	font-size: 14px;
+}
+
+.empbtn1 {
+	position: absolute;
+	color: #204ECF;
+	margin-top: -5rem;
+	margin-left: 17rem;
+	background-color: #E6ECFF;
+	width: 3rem;
+	height: 10px;
+	padding-top: 0.5rem;
+	border-radius: 60px;
+}
+
+.emptxt1 {
+	margin-top: -0.5rem;
+	font-size: 14px;
+}
+
+.heart {
+    margin-left: 11.5rem;
+    margin-top: 7rem;
+}
+.heart2 {
+    margin-left: 17.5rem;
+    margin-top: -1.3rem;
+}
+.heart3 {
+    margin-left: 17.5rem;
+    margin-top: -1.8rem;
+}
+.heart4 {
+    margin-left: 17.5rem;
+    margin-top: -1.3rem;
+}
+
+.cont {
+    margin-top: 7rem;
+}
+
+.agency-category1 {
+    margin-top: 1rem;
+}
+
+.navmaid {
+    margin-bottom: 7rem;
+}
+.bottom {
+    padding-top: 4.5em;
+    width: 100%;
+    height:100px;
+    position: fixed;
+    top:700px;
+    left:0px;
+}
+
+.buttspace {
+    padding-top: 4.5em;
+}
+
+.bottom-icons {
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    height: 5rem;
+}
+
+.home {
+    margin-top: 1rem;
+    margin-right: 20rem;
+}
+.walet {
+    margin-top: -2.9rem;
+    margin-right: 10rem;
+}
+.walet2 {
+    margin-top: -2.8rem;
+    margin-right: -10rem;
+}
+.more {
+    margin-top: -2.8rem;
+    margin-right: -20rem;
+}
+.heart2 {
+    margin-top: -2.7rem;
+    margin-left: 11rem;
+    position: absolute;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .container-maid {
+        padding-left: 1.1rem;
+        margin-right: 1.5rem;
+    }
+    .searchdiv {
+        box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+        background-color: #FFF;
+        margin-top: 8rem;
+    }
+    .vcard-police {
+        margin-top: 5px;
+    }
+    .vcard-police2 {
+        margin-top: 140px;
+    }
+    .vcard-police3 {
+        margin-top: 280px;
+    }
+    .vcard-police4 {
+        margin-top: 420px;
+    }
+    .vcard-police5 {
+        margin-top: 560px;
+    }
+    .text-police {
+        text-align: left;
+    }
+    .policebadge {
+        margin-bottom: 50px;
+        position: absolute;
+        margin-right: 16px;
+    }
+    .header-police {
+        margin-right: 10px;
+    }
+}

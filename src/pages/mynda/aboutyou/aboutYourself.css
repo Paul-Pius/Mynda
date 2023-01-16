@@ -1,0 +1,89 @@
+.container-about {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  margin-top: 14rem;
+  padding-bottom: 2rem;
+}
+
+.form-field-aboutyou {
+    margin: 10px 0 10px 0;
+    padding: 15px;
+    font-size: 16px;
+    border: 0;
+    font-family: "Roboto", sans-serif;
+    width: 100%;
+    background: #F3F5F7;
+  }
+  
+  .head {
+    font-size: 15px;
+    color: #1D1D1D;
+    text-align: left;
+  }
+  
+  .headdate {
+    margin-right: 17rem;
+  }
+
+  
+  .fom-about {
+    background: white;
+    padding-right: 1rem;
+    padding-left: 1.3rem;
+    margin-top: -4.8rem;
+    padding-bottom: 2rem;
+    width: 23rem;
+  }
+
+  .telushead {
+    background: #fff;
+    position: fixed;
+    top: -10rem;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .labe {
+    margin-right: 18.3rem;
+  }
+
+  .headocu {
+    margin-right: 13rem;
+  }
+
+  .headstates {
+    margin-right: 5.5rem;
+  }
+
+  .headsalary {
+    margin-right: 14rem;
+  }
+
+  @media screen and (max-width: 1200px) {
+    .fom-about {
+      padding: 30px;
+    }
+    /* .telushead {
+      position: fixed;
+      overflow: hidden;
+    }
+    .labe {
+      margin-right: 17.4rem;
+    }
+    .headdate {
+      margin-right: 16rem;
+    }
+    .headocu {
+      margin-right: 12rem;
+    }
+    .headstates {
+      margin-right: 5rem;
+    }
+    .headsalary {
+      margin-right: 13rem;
+    } */
+
+  }
+

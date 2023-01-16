@@ -1,0 +1,42 @@
+.container-addedu {
+    /* display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center; */
+  }
+  
+  .input-addedu {
+      font-size: 16px;
+      border: 0;
+      font-family: "Roboto", sans-serif;
+      width: 100%;
+    }
+    
+    .head {
+      padding-top: 1.5rem;
+      font-size: 15px;
+      color: #1D1D1D;
+    }
+    
+    .telusheadaddedu {
+      margin-bottom: 3rem;
+    }
+    
+    .fom-add-edu {
+      margin-top: -10rem;
+    }
+
+    .headaddedu {
+      margin-right: 9rem;
+    }
+
+    .addnew {
+      color: #204ECF;
+      margin-right: 15rem;
+    }
+  
+    @media screen and (max-width: 600px) {
+        .fom-add-edu {
+          padding: 30px;
+        }
+      }

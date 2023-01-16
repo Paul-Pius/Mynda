@@ -1,0 +1,71 @@
+.container-editwork {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 11rem;
+  }
+  
+  .form-field-edit {
+      margin: 10px 0 10px 0;
+      padding: 15px;
+      font-size: 16px;
+      border: 0;
+      font-family: "Roboto", sans-serif;
+      width: 90%;
+      background: #F3F5F7;
+    }
+    
+    .head {
+      padding-top: 1.5rem;
+      font-size: 15px;
+      color: #1D1D1D;
+    }
+
+    .edithead1 {
+      padding: 1rem;
+      color: #1D1D1D;
+      text-align: center;
+      margin-top: 8rem
+    }
+    .edithead2 {
+      color: #1D1D1D; 
+      margin-bottom: 1rem; 
+      text-align: left
+    }
+    
+    .telusheadeditwork {
+      background: #fff;
+      position: fixed;
+      top: -8rem;
+      width: 28%;
+      overflow: hidden;
+    }
+    
+    .fom-edit-experience {
+      background: white;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      width: 23rem;
+      padding-bottom: 3rem;
+      padding-left: 1.3rem;
+      margin-top: -8rem;
+    }
+  
+    @media screen and (max-width: 1200px) {
+        .telusheadeditwork{
+          width: 23rem;
+          margin-top: 2rem;
+        }
+        .edithead1 {
+          margin-left: 1rem;
+        }
+        .edithead2 {
+          margin-top: 4rem;
+        }
+        .startdate {
+          margin-left: 5rem;
+        }
+      }

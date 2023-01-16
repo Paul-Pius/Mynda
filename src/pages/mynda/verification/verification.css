@@ -1,0 +1,167 @@
+.text {
+    font-weight: 0;
+    margin-top: 6rem;
+}
+
+.vcard {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+    position: absolute;
+    text-align: left;
+}
+
+.vcard2 {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    position: absolute;
+    margin-top: 4rem;
+    display: flex;
+    text-align: left;
+}
+
+.vcard3 {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    position: absolute;
+    margin-top: 8rem;
+    display: flex;
+    text-align: left;
+}
+
+.vcard4 {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    position: absolute;
+    margin-top: 12rem;
+    display: flex;
+    text-align: left;
+}
+.vcard5 {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    position: absolute;
+    margin-top: 16rem;
+    display: flex;
+    text-align: left;
+}
+.vcard6 {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    border:1px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    position: absolute;
+    margin-top: 20rem;
+    display: flex;
+    text-align: left;
+}
+
+.elipse {
+    display: flex;
+    margin-left: 1rem;
+    margin-left: -2em;
+    margin-top: 0.8rem;
+    position: absolute;
+    border-radius: 50px;
+}
+
+.elipsediv {
+    margin-left: 4rem;
+}
+
+.fwrdarrowdiv {
+    display: flex;
+    position: absolute;
+    margin-left: 80rem;
+    margin-top: 1.2rem;
+}
+
+.transport {
+    margin-top: 6rem;
+    position: absolute;
+    display: flex;
+    background-color: #073D26;
+    width: 100%;
+    height: 8rem;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.transportarrow {
+    margin-left: 11.5rem;
+    margin-top: 4.8rem;
+    position: absolute;
+}
+
+.transportarrowdiv {
+    position: absolute;
+    width: 100%;
+}
+
+.transporttxt2 {
+    margin-top: 5.5rem;
+    margin-left: -14.3rem;
+}
+
+.transporttxt1 {
+    margin-left: 2rem;
+}
+
+.cardiv {
+    margin-left: 2rem;
+}
+
+.homeverify {
+    position: absolute;
+    margin-top: 37rem;
+    margin-left: 11rem;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .fwrdarrowdiv {
+        margin-left: 350px;
+        margin-top: 20px;
+        position: absolute;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .verification-contain {
+        padding-left: 1.1rem;
+        margin-right: -2.5rem;
+    }
+
+    .car {
+        margin-left: 6x;
+    }
+    .transporttxt1 {
+        margin-right: 320px;
+        position: absolute;
+    }
+    .transporttxt2 {
+        margin-left: 20px;
+        position: absolute;
+    }
+    .transportarrow {
+        margin-left: 170px;
+    }
+    .text {
+        text-align: left;
+        margin-left: 1rem;
+    }
+    .cardiv {
+        margin-left: 0.5rem;
+    }
+}

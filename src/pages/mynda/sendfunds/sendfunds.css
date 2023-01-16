@@ -1,0 +1,60 @@
+.arrow {
+    position: fixed;
+    margin-left: 4rem;
+    margin-top: -9rem;
+    z-index: 1;
+}
+
+.navdiv {
+    display: flex;
+}
+
+.form-input-send {
+    background: #F3F5F7;
+    border: 1px solid rgba(213, 211, 211, 0.1);
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    color: rgba(142, 142, 142, 0.5);
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+}
+
+.lebel-send {
+    text-align: left;
+    margin-bottom: 0.5rem;
+}
+
+.lebel-send2 {
+    text-align: left;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.inptxt-send {
+    width:100%;
+    height: 6rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #F3F5F7
+}
+
+.lodbtn-send {
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 1200px) {
+    .formsend {
+        padding: 30px;
+    }
+}
+
+
+
+    

@@ -1,0 +1,44 @@
+.container-workexperience {
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    margin-top: 12rem;
+  }
+  
+  .form-fieldx {
+      margin: 10px 0 10px 0;
+      padding: 15px;
+      font-size: 16px;
+      border: 0;
+      font-family: "Roboto", sans-serif;
+      width: 100%;
+      background-color: #F3F5F7;
+    }
+    
+    .fom-work-experience {
+      background: white;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      width: 23rem;
+      padding-bottom: 3rem;
+      padding-left: 1.3rem;
+      margin-top: -8rem;
+      height: 60rem;
+    }
+
+    .tellusheadworkx {
+      background: #fff;
+      position: fixed;
+      top: -8rem;
+      width: 28%;
+      overflow: hidden;
+    }
+
+    @media screen and (max-width: 1200px) {
+      .tellusheadworkx {
+        width: 23rem;
+      }
+    }
+  

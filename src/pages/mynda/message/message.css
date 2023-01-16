@@ -1,0 +1,50 @@
+.navdiv {
+    margin-bottom: -4rem;
+}
+.usermessage {
+    margin-top: 0.5rem;
+    /* box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.05); */
+    /* border:1px solid rgba(142, 142, 142, 0.15); */
+    border-radius: 5px;
+    border-bottom: 2px solid rgba(142, 142, 142, 0.15);
+    width: 100%;
+    display: flex;
+}
+
+.senderimage {
+    margin-top: 0.6rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.sndimg {
+    margin-bottom: 0.6rem;
+    margin-left: 1rem;
+}
+
+.sndname {
+    margin-top: 0.5rem;
+    position: absolute;
+    margin-left: 5.1rem;
+}
+.sndtime {
+    margin-top: 0.5rem;
+    margin-left: 19rem;
+    position: absolute;
+    color: #6B6A6A;
+}
+
+.sndmessage {
+    margin-top: 2rem;
+    color: #6B6A6A;
+}
+
+@media screen and (max-width: 1200px) {
+    .usermessage {
+       margin-right: 5px;
+    }
+
+    .maindv {
+        padding: 25px 10px 10px 10px;
+    }
+}
