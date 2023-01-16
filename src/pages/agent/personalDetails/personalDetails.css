@@ -1,0 +1,96 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.form-contain-personal {
+  display: flex;
+  min-height: 100vh;
+  margin-left: 29rem;
+  margin-top: -8rem;
+}
+
+.register-form-upload-editshare {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-top: -1.5rem;
+  width: 23rem;
+  background: #fff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.form-field-personal {
+  padding: 15px;
+  font-size: 16px;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+  width: 89%; 
+  background: #F3F5F7;
+  border: 1px solid rgba(213, 211, 211, 0.1);
+  border-radius: 5px;
+}
+
+.policy {
+    margin-bottom: 2rem;
+    margin-top: -1rem;
+}
+
+.prfedit{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  color: #1D1D1D;
+  text-align: center;
+}
+
+.personaldetails {
+  background: #fff;
+  position: fixed;
+  margin-top: -2.5rem;
+  width: 28%;
+  overflow: hidden;
+  margin-right: -5rem;
+  height: 4rem;
+}
+.form-header-personal {
+  width: 100%;
+  display: flex;
+  margin-bottom: 4rem;
+  margin-top: 0.0rem;
+  position: fixed;
+  top: 0;
+  background-color: white;
+  height: 2rem;
+}
+
+.head-personal {
+  margin-top: 1rem;
+  font-size: 15px;
+  color: #1D1D1D;
+  text-align: left;
+}
+
+.form-header-arrow-personal {
+	padding-right: 2.5em;
+    margin-top: 0.5rem;
+}
+
+
+.navdiv {
+  margin-top: 11rem;
+  margin-bottom: -8rem;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .personaldetails {
+      width: 100%;
+    }
+    .form-contain-personal {
+      margin-left: -0.5rem;
+    }
+
+  }

@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+.form-contain-editshare {
+  margin-top: 4rem;
+}
+
+.register-form-upload-editshare {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin-top: -1.5rem;
+  width: 23rem;
+  background: #fff;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 3rem;
+  padding-bottom: 1rem;
+}
+
+.form-field {
+  padding: 15px;
+  font-size: 16px;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+  width: 100%; 
+  background: #F3F5F7;
+  border: 1px solid rgba(213, 211, 211, 0.1);
+  border-radius: 5px;
+}
+
+.policy {
+    margin-bottom: 2rem;
+    margin-top: -1rem;
+}
+
+.prfedit{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 21px;
+  display: flex;
+  color: #1D1D1D;
+  text-align: center;
+}
+
+.editshare {
+  background: #fff;
+  position: fixed;
+  top: -8rem;
+  width: 100%;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .register-form-upload-editshare {
+      /* padding: 30px; */
+    }
+  }

@@ -1,0 +1,54 @@
+.container-addcard {
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  margin-top: 4rem;
+}
+  
+  .form-field-addcard {
+      margin: 10px 0 10px 0;
+      /* padding: 15px; */
+      font-size: 16px;
+      border: 0;
+      font-family: "Roboto", sans-serif;
+      width: 100%;
+      background: #F3F5F7;
+    }
+    
+    .head {
+      padding-top: 1.5rem;
+      font-size: 15px;
+      color: #1D1D1D;
+      margin-right: 4rem;
+    }
+    
+    .telusheadaddcard {
+      margin-bottom: 3rem;
+    }
+    
+    .fom-work-addcard {
+      background: white;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      padding-top: 1rem;
+      padding-bottom: 1rem;
+      width: 23rem;
+      padding-bottom: 3rem;
+      padding-left: 1.3rem;
+      margin-top: -8rem;
+      height: 50rem;
+    }
+
+    @media screen and (max-width: 1200px) {
+      .fom-work-addcard {
+        padding: 30px;
+      }
+      /* .addname {
+        text-align: left;
+      }
+      .cancel {
+        text-align: center;
+      } */
+    }
+
+  

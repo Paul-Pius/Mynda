@@ -1,0 +1,38 @@
+.container-terms {
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    width: 100%;
+  }
+  
+  .fom-terms {
+    background: white;
+    height: 50rem;
+    width: 100%;
+    margin-top: -7rem;
+    padding-bottom: 10rem;
+}
+
+@media screen and (max-width: 1200px) {
+  .container-terms {
+    width: 100%;
+  }
+
+  .fom-terms {
+    margin-right: 3rem;
+  }
+
+  .termstext {
+    text-align: left;
+    margin-left: 1rem;
+  }
+}
+
+
+
+
+
+  
+
+
