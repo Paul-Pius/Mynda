@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap");
+.inputdiv9 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Nunito", sans-serif;
+}
+
+.inputdiv9 .openModalBtn9 {
+  width: 330px;
+  border-radius: 5px;
+  /* margin-top: -3rem; */
+  margin-left: 0.5rem;
+  cursor: pointer;
+}
+
+.topup {
+  text-align: left;
+  margin-top: 4rem;
+  margin-right: 4rem;
+  position: absolute;
+}
+
+.applynow {
+  margin-top: 8rem;
+  color: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  background: #204ECF;
+}
