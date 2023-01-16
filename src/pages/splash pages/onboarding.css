@@ -10,7 +10,6 @@ a {
 }
 
 .ob-button {
-	/* border: 0; */
 	width: 100%;
 	color: #fff;
 	background-color: #204ECF;
@@ -186,8 +185,9 @@ a {
 
 .mynda-roles-arrow {
 	padding-right: 3px;
+	margin-top: 2rem;
 }
 
 .employer-link {
-	padding-top: 2.2em;
+	padding-top: -1em;
 }
